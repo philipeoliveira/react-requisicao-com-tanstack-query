@@ -1,11 +1,11 @@
-# Requisição com o Axios
+# Requisição com o TanStack Query
 
-Código em React que consulta a API da Lotofácil usando o Axios na requisição.
+Código em React que consulta a API da Lotofácil usando a biblioteca TanStack React Query, com o Axios na requisição.
 
-Hooks utilizados do React:
+Recursos utilizados do biblioteca:
 
--  useState
--  useEffect
+-  Hook useQuery
+-  Estados do useQuery: data, isLoading, isError, error
 
 _Obs.: Criado com a base da instalação do React com o Vite._
 
